@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ressources/img/drop.png</file>
+        <file>ressources/img/empty.png</file>
+        <file>ressources/img/night.png</file>
+        <file>ressources/img/no_drop.png</file>
+        <file>ressources/img/star_black.png</file>
+        <file>ressources/img/star_blue.png</file>
+        <file>ressources/img/star_down.png</file>
+        <file>ressources/img/star_green.png</file>
+        <file>ressources/img/star_night.png</file>
+        <file>ressources/img/star_purple.png</file>
+        <file>ressources/img/star_red.png</file>
+    </qresource>
+</RCC>
